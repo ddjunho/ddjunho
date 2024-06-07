@@ -43,6 +43,7 @@
 
 ## 💼 경력
 
+임의로 작성함
 ### Software Developer - Awesome Company
 *2021년 5월 - 현재*
 
