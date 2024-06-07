@@ -5,6 +5,8 @@
 ## 🌟 소개
 
 저는 **소프트웨어 개발자**로, 다양한 기술을 배우고 적용하는 것을 즐깁니다. 코딩과 문제 해결을 통해 세상을 조금 더 나은 곳으로 만들고자 하는 열정을 가지고 있습니다.
+# 주요 기술
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -12,6 +14,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/XML-0B8EF0?style=flat-square&logo=xml&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -26,7 +33,7 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-- 🚀 **관심 분야**: 데이터 분석, 알고리즘, 머신러닝, 시스템 디자인
+- 🚀 **관심 분야**: 데이터 분석, 모델학습, 가상화, 네트워크, 모바일 해킹
 - 🌍 **거주지**: 대한민국 서울
 
 ---
