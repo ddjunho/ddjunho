@@ -42,11 +42,6 @@
 
 ---
 
-## 💼 경력
-
-없음
----
-
 ## 📚 프로젝트
 
 ### Project 1: [BinanceVolatilityBot](https://github.com/ddjunho/BinanceVolatilityBot)
