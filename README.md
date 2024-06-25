@@ -44,26 +44,12 @@
 
 ## 💼 경력
 
-임의로 작성함
-### Software Developer - Awesome Company
-*2021년 5월 - 현재*
-
-- 대규모 데이터 처리 및 분석 시스템 개발
-- 코드 최적화 및 성능 개선
-- 팀 내 코드 리뷰 및 협업 도구 설정
-
-### Junior Developer - Tech Startup
-*2018년 6월 - 2021년 4월*
-
-- 스타트업의 초기 소프트웨어 아키텍처 설계
-- 다양한 백엔드 서비스 개발 및 유지보수
-- 데이터베이스 설계 및 관리
-
+없음
 ---
 
 ## 📚 프로젝트
 
-### Project 1: [Data Analysis Tool](https://github.com/username/data-analysis-tool)
+### Project 1: [BinanceVolatilityBot](https://github.com/ddjunho/BinanceVolatilityBot)
 - 프로젝트 설명: 대규모 데이터셋을 처리하고 시각화하는 도구입니다.
 - 주요 기능: 데이터 클렌징, 통계 분석, 인터랙티브 시각화
 
