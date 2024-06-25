@@ -50,8 +50,8 @@
 ## 📚 프로젝트
 
 ### Project 1: [BinanceVolatilityBot](https://github.com/ddjunho/BinanceVolatilityBot)
-- 프로젝트 설명: 대규모 데이터셋을 처리하고 시각화하는 도구입니다.
-- 주요 기능: 데이터 클렌징, 통계 분석, 인터랙티브 시각화
+- 프로젝트 설명: CCXT를 이용하여 자동매매 봇을 구현한 프로젝트입니다. 이 봇은 변동성 돌파 전략과 EMA 기반 추세 추종 전략을 적용하였습니다.
+- 주요 기능: 통계 분석, 가격예측, 백테스팅 및 시각화
 
 ### Project 2: [Algorithm Library](https://github.com/username/algorithm-library)
 - 프로젝트 설명: 다양한 알고리즘을 구현하고 테스트하는 라이브러리입니다.
