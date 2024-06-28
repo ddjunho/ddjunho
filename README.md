@@ -80,8 +80,7 @@
 
 ## 📫 연락처
 
-- 이메일: [junoh.kwon@example.com](mailto:junoh.kwon@example.com)
-- LinkedIn: [linkedin.com/in/junohkwon](https://linkedin.com/in/junohkwon)
+- 이메일: [zoono1004@gmail.com](mailto:jzoono1004@gmail.com)
 - 블로그: [junohkwon.dev](https://junohkwon.dev)
 
 ---
