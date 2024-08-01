@@ -41,7 +41,7 @@
 - 🌍 **거주지**: 대한민국 서울
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjunho&show_icons=true&theme=swift)
 ## 📚 프로젝트
 
 ### Project 1: [BinanceVolatilityBot](https://github.com/ddjunho/BinanceVolatilityBot)
