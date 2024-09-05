@@ -2,9 +2,6 @@
 
 ![Profile Banner](https://example.com/banner-image.png)
 
-## 🌟 소개
-
-저는 **소프트웨어 개발자**로, 다양한 기술을 배우고 적용하는 것을 즐깁니다. 코딩과 문제 해결을 통해 세상을 조금 더 나은 곳으로 만들고자 하는 열정을 가지고 있습니다.
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
