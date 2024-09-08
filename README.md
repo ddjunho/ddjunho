@@ -82,23 +82,7 @@
 
 ---
 
-## 🛠️ 사용 기술 및 도구
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
-## 🎨 취미 및 관심사
-
-- 📖 독서: 최신 기술 서적과 문학 작품을 즐깁니다.
-- 🏋️ 운동: 주로 헬스와 조깅을 합니다.
-- 🍳 요리: 새로운 레시피를 시도하고 맛있는 음식을 만듭니다.
-- 📚 공부: 항상 새로운 기술과 지식을 배우고 있습니다.
 
 ---
-
-감사합니다! 제 프로필에 관심을 가져주셔서 감사합니다. 더 많은 정보는 제 [GitHub 프로필](https://github.com/junohkwon)을 방문해주세요!
