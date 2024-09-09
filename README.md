@@ -51,38 +51,10 @@
 
 ---
 
-## 📄 프로젝트 포트폴리오 갤러리
 
-<div class="portfolio-slider">
-    <div><img src="https://example.com/portfolio/project1-slide1.png"></div>
-    <div><img src="https://example.com/portfolio/project1-slide2.png"></div>
-    <div><img src="https://example.com/portfolio/project1-slide3.png"></div>
-</div>
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-<script>
-    $(document).ready(function(){
-        $('.portfolio-slider').slick({
-            dots: true,
-            infinite: true,
-            speed: 300,
-            slidesToShow: 1,
-            adaptiveHeight: true
-        });
-    });
-</script>
-
----
 
 ## 📫 연락처
 
 - 이메일: [zoono1004@gmail.com](mailto:jzoono1004@gmail.com)
 - 블로그: [naver](https://blog.naver.com/zoono1004)
 
----
-
----
-
-
----
