@@ -51,6 +51,10 @@
 - 프로젝트 설명: AR(증강 현실) 기술을 활용하여 사용자에게 실시간 경로 안내를 제공하는 앱입니다. 이 앱은 GPS와 AR 기술을 결합하여 사용자에게 더욱 직관적인 길 안내를 제공합니다.
 - 주요 기능: AR, 지도, 카메라, 글자인식, 거리계산, 경로안내
 
+### Project 3: [upcycle](https://github.com/ddjunho/upcycle)
+- 프로젝트 설명: 타학과간의 융합 프로젝트
+- 업사이클링: [팀 HEYDAY의 여정](https://kosi6971.github.io/upcycle/html/intro.html)
+
 ---
 
 
