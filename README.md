@@ -46,16 +46,21 @@
 
 ### Project 1: [BinanceVolatilityBot](https://github.com/ddjunho/BinanceVolatilityBot)
 - 프로젝트 설명: CCXT를 이용하여 자동매매 봇을 구현한 프로젝트입니다. 이 봇은 변동성 돌파 전략과 EMA 기반 추세 추종 전략을 적용하였습니다.
-- 주요 기능: 통계 분석, 가격예측, 백테스팅 및 시각화
+- 기능: 통계 분석, 가격예측, 백테스팅 및 시각화
 
 ### Project 2: [Navigator](https://github.com/ddjunho/Navigator)
 - 프로젝트 설명: AR(증강 현실) 기술을 활용하여 사용자에게 실시간 경로 안내를 제공하는 앱입니다. 이 앱은 GPS와 AR 기술을 결합하여 사용자에게 더욱 직관적인 길 안내를 제공합니다.
-- 주요 기능: AR, 지도, 카메라, 글자인식, 거리계산, 경로안내
+- 기능: AR, 지도, 카메라, 글자인식, 거리계산, 경로안내
 
 ### Project 3: [upcycle](https://github.com/ddjunho/upcycle)
 - 프로젝트 설명: 타학과간의 융합 프로젝트
 - 업사이클링: [팀 HEYDAY의 여정](https://kosi6971.github.io/upcycle/html/intro.html)
 
+### Project 4: [Animal_action_post_generator](https://github.com/ddjunho/animal_action_post_generator)
+- 프로젝트 설명: OpenAI의 DALL-E와 Instagram API를 사용하여 자동으로 이미지를 생성하고 Instagram에 게시하는 스크립트입니다. 이 스크립트는 랜덤으로 선택된 동물, 사물, 행동, 장소를 조합하여 캡션을 생성하고, 생성된 이미지를 저장한 후 Instagram에 게시합니다.
+- 기능: 프롬프트생성, 이미지생성, 이미지게시, 해시태그생성, 디스크저장
+- 
+![Example Image](https://github.com/ddjunho/animal_action_post_generator/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%83%9D%EC%84%B1/%EB%8B%A4%EB%9E%8C%EC%A5%90%EB%8A%94_%ED%8C%90%ED%83%80%EC%A7%80_%EC%88%B2%EC%97%90%EC%84%9C_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A5%BC_%EC%95%89%EC%95%84_%EC%9E%88%EB%8B%A4..png)
 ---
 
 
