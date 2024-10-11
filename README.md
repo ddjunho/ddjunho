@@ -1,7 +1,5 @@
 # 안녕하세요, 저는 권준오입니다! 👋
 
-![Profile Banner](https://example.com/banner-image.png)
-
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
