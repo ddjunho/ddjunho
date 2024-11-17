@@ -52,7 +52,7 @@
 - 기능: AR, 지도, 카메라, 글자인식, 거리계산, 경로안내
 
 ### [upcycle](https://github.com/ddjunho/upcycle)
- 설명: 타학과간의 융합 프로젝트
+- 설명: 타학과간의 융합 프로젝트
 - 업사이클링: [팀 HEYDAY의 여정](https://kosi6971.github.io/upcycle/html/intro.html)
 
 ### [Animal_action_post_generator](https://github.com/ddjunho/animal_action_post_generator)
