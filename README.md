@@ -42,6 +42,8 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjunho&show_icons=true&theme=swift)
 ## 📚 프로젝트
+### [SQL_Injection]
+- 취약점있는 데이터베이스 긁어오기
 
 ### [BinanceVolatilityBot](https://github.com/ddjunho/BinanceVolatilityBot)
 - 설명: CCXT를 이용하여 자동매매 봇을 구현한 프로젝트입니다. 이 봇은 변동성 돌파 전략과 EMA 기반 추세 추종 전략을 적용하였습니다.
