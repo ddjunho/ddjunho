@@ -41,7 +41,7 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjunho&show_icons=true&theme=swift)
-## 📚 프로젝트
+## 📚 
 ### [SQL_Injection](https://github.com/ddjunho/SQL_Injection)
 - 취약점있는 데이터베이스 공격코드
 
